@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Mark
-=======
+
 Miller -> team captain
 Jaden is team
 Matias --> Team member
->>>>>>> refs/remotes/origin/main
+
