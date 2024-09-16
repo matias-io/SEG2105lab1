@@ -1,2 +1,3 @@
-Matias --> Team Captain
+Miller -> team captain
 Jaden is team
+Matias --> Team member
