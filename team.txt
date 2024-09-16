@@ -1,16 +1,5 @@
-<<<<<<< HEAD
-
-Miller -> team captain
-Jaden is team
-Matias --> Team member
-
-=======
-<<<<<<< HEAD
-Mark
-=======
 Miller -> Team member
-Jaden is team
-Matias --> Team member
-Aditya --> Team member
->>>>>>> refs/remotes/origin/main
->>>>>>> refs/remotes/origin/main
+Mark -> Team member
+Jaden -> Team member
+Matias -> Team member
+Aditya -> Team member
