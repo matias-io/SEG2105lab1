@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Mark
 =======
-Miller -> team captain
+Miller -> Team member
 Jaden is team
 Matias --> Team member
 Aditya --> Team member
